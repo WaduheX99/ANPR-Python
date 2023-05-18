@@ -9,10 +9,10 @@ CUDA Toolkit functions to process EasyOCR in reading text derived from images us
 
 3. Install Pytorch\
 An Example when already have CUDA Toolkit\
-```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
-
-  Installing without CUDA :\
-  ```pip install torch torchvision torchaudio ```
+```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```\
+\
+Installing without CUDA :\
+```pip install torch torchvision torchaudio ```
 
 4. Install EasyOCR ```(https://github.com/JaidedAI/EasyOCR)```
 
