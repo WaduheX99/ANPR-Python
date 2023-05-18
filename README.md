@@ -4,7 +4,7 @@ This project was created using Python with OpenCV to detect the number plates an
 ## Setup
 1. Install OpenCV   ```pip install open-cv python```
 
-2. Install CUDA Toolkit from NVIDIA (Optional)
+2. Install CUDA Toolkit from NVIDIA (Optional).\
 CUDA Toolkit functions to process EasyOCR in reading text derived from images using the GPU. This can make processes run faster than using the CPU.
 
 3. Install Pytorch
