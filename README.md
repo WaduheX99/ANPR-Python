@@ -4,20 +4,20 @@ This project was created using Python with OpenCV to detect the number plates an
 ## Setup
 1. Install OpenCV   ```pip install open-cv python```
 
-2. Install CUDA Toolkit from NVIDIA (Optional).\
-CUDA Toolkit functions to process EasyOCR in reading text derived from images using the GPU. This can make processes run faster than using the CPU.
+2. Install CUDA Toolkit from NVIDIA (Optional)\
+CUDA Toolkit functions to process EasyOCR in reading text derived from images using the GPU. This can make processes run faster than using the CPU
 
-3. Install Pytorch
-An Example when already have CUDA Toolkit
-```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
+3. Install Pytorch\
+An Example when already have CUDA Toolkit\
+```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```\
 
-Installing without CUDA :
+Installing without CUDA :\
 ```pip install torch torchvision torchaudio ```
 
 4. Install EasyOCR ```(https://github.com/JaidedAI/EasyOCR)```
 
 ## How to Use
-1. Run ```plate_capture.py```
+1. Run ```plate_capture.py```\
 Make sure the slot of the device that will be used to take pictures is correct
 
 2. If ROI has detected your plate, press the 's' button
