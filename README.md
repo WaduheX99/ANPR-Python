@@ -20,12 +20,12 @@ Installing without CUDA :\
 1. Run ```plate_capture.py```\
 Make sure the slot of the device that will be used to take pictures is correct
 
-2. If ROI has detected your plate, press the 's' button
-
-![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/1.png?raw=true)
-
-![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/2.png?raw=true)
-
+2. If ROI has detected your plate, press the 's' button\
+\
+![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/1.png?raw=true)\
+\
+![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/2.png?raw=true)\
+\
 ![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/3.png?raw=true)\
 \
 The image will be saved in the plates folder with ```.jpg``` format
