@@ -26,9 +26,9 @@ Make sure the slot of the device that will be used to take pictures is correct
 
 ![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/2.png?raw=true)
 
-![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/3.png?raw=true)
-
-  The image will be saved in the plates folder with ```.jpg``` format
+![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/3.png?raw=true)\
+\
+The image will be saved in the plates folder with ```.jpg``` format
 
 3. Open ```PlatesRead.ipynb``` using your favorite IPython Notebook editor like Jupyter Notebook, Google Colab, etc.
 
