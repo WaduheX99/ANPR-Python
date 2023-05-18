@@ -9,10 +9,10 @@ CUDA Toolkit functions to process EasyOCR in reading text derived from images us
 
 3. Install Pytorch\
 An Example when already have CUDA Toolkit\
-```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```\
+```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117```
 
-Installing without CUDA :\
-```pip install torch torchvision torchaudio ```
+  Installing without CUDA :\
+  ```pip install torch torchvision torchaudio ```
 
 4. Install EasyOCR ```(https://github.com/JaidedAI/EasyOCR)```
 
@@ -28,7 +28,7 @@ Make sure the slot of the device that will be used to take pictures is correct
 
 ![alt text](https://github.com/WaduheX99/ANPR-Python/blob/main/test/3.png?raw=true)
 
-The image will be saved in the plates folder with ```.jpg``` format
+  The image will be saved in the plates folder with ```.jpg``` format
 
 3. Open ```PlatesRead.ipynb``` using your favorite IPython Notebook editor like Jupyter Notebook, Google Colab, etc.
 
